@@ -3,94 +3,154 @@
 _Este es el archivo README.md principal del repositorio del PIA, este mismo hara referencia a los otros README.md de los demas temas que se hablaran a continuacion_
 
 ## Datos del alumno
+
 **Nombre del alumno:** Brayan Osvaldo Ortiz Mendez
 
 **Matricula:** 1912975
 
-## Secciones
+## Descripcion General del Repositorio
 
-_Estos son algunos de los temas que aprendimos en el transcurso del semestre hasta el final del mismo, exponiendo principalmente aquellos donde realizamos scripting_
+_Este repositorio tiene como finalidad ser una evidencia de recopilacion de los scripts hechos a lo largo del curso y mostrarlos al publico interesado, en este caso al profesor encargado_
 
-### Descripcion General del Repositorio
-
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
+## Temas
 
 ### Manejo de APIs
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
+<details><summary>Enlace del script</summary>
+<p>
+
 ```
-Da un ejemplo
+Link
 ```
+
+</p>
+</details>
 
 ### Scripting en PowerShell
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
+<details><summary>Enlace del script</summary>
+<p>
+
 ```
-Da un ejemplo
+Link
 ```
+
+</p>
+</details>
 
 ### Scripting en Bash
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
+<details><summary>Enlace del script</summary>
+<p>
+
 ```
-Da un ejemplo
+Link
 ```
+
+</p>
+</details>
 
 ### Encoding & Decoding
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
+<details><summary>Enlace del script</summary>
+<p>
+
 ```
-Da un ejemplo
+Link
 ```
+
+</p>
+</details>
 
 ### Webscraping
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
+<details><summary>Enlace del script</summary>
+<p>
+
 ```
-Da un ejemplo
+Link
 ```
+
+</p>
+</details>
 
 ### Nmap
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
+<details><summary>Enlace del script</summary>
+<p>
+
 ```
-Da un ejemplo
+Link
 ```
+
+</p>
+</details>
+
 ### FTP
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
+<details><summary>Enlace del script</summary>
+<p>
+
 ```
-Da un ejemplo
+Link
 ```
+
+</p>
+</details>
+
 ### Escáner de Puertos
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
+<details><summary>Enlace del script</summary>
+<p>
+
 ```
-Da un ejemplo
+Link
 ```
+
+</p>
+</details>
+
 ### Envió de Correos
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
+<details><summary>Enlace del script</summary>
+<p>
+
 ```
-Da un ejemplo
+Link
 ```
+
+</p>
+</details>
+
 ### Automatización de Tareas
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
+<details><summary>Enlace del script</summary>
+<p>
+
 ```
-Da un ejemplo
+Link
 ```
+
+</p>
+</details>
+
