@@ -24,7 +24,7 @@ _Uso o consulta de un servicio que nos ofrecera un sitio web o una aplicacion me
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/59603a515e29a130a5a9ec16e0f57815b7280bf2/Manejo%20de%20APIs/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/10c348b8eff9cb4a08db97cc6b4fc7a8a002aabc/Manejo%20de%20APIs/README.md)
 
 ### 2. Scripting en PowerShell
 
@@ -36,7 +36,7 @@ _Manejo y creacion de Scripts mediante comandos de Windows usando la terminal de
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/0aae70872abf45e41112e352c0c76632580ed5d8/Scripting%20en%20PowerShell/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/019fbfd470f2c02174b836f1f74c8f62e1219e79/Scripting%20en%20PowerShell/README.md)
 
 
 ### 3. Scripting en Bash
