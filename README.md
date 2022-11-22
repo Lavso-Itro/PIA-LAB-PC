@@ -24,7 +24,7 @@ _Uso o consulta de un servicio que nos ofrecera un sitio web o una aplicacion me
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8570e52a3ec52f39592d6de35d5c1b88ae291003/Manejo%20de%20APIs/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/main/Manejo%20de%20APIs/README.md)
 
 ### 2. Scripting en PowerShell
 
@@ -36,7 +36,7 @@ _Manejo y creacion de Scripts mediante comandos de Windows usando la terminal de
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8570e52a3ec52f39592d6de35d5c1b88ae291003/Scripting%20en%20PowerShell/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/main/Scripting%20en%20PowerShell/README.md)
 
 ### 3. Scripting en Bash
 
@@ -48,7 +48,7 @@ _Manejo y creacion de Scripts mediante comandos procedentes de los sistemas oper
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8570e52a3ec52f39592d6de35d5c1b88ae291003/Scripting%20en%20Bash/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/main/Scripting%20en%20Bash/README.md)
 
 ### 4. Encoding & Decoding
 
@@ -60,7 +60,7 @@ _Uso de herramientas que nos permiten codificar y decodificar archivos, textos e
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8570e52a3ec52f39592d6de35d5c1b88ae291003/Encoding%20&%20Decoding/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/main/Encoding%20&%20Decoding/README.md)
 
 ### 5. Webscraping
 
@@ -72,7 +72,7 @@ _Uso de una herramienta que nos permitira extraer contenido e informacion de un 
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8570e52a3ec52f39592d6de35d5c1b88ae291003/Webscraping/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/main/Webscraping/README.md)
 
 ### 6. Nmap
 
@@ -84,7 +84,7 @@ _Uso de herramientas que nos ofrece multiples funciones relacionadas a la explor
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8570e52a3ec52f39592d6de35d5c1b88ae291003/Nmap/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/main/Nmap/README.md)
 
 ### 7. FTP
 
@@ -96,7 +96,7 @@ _Uso del protocolo con funcion de trasnferencia de archivos entre equipos de una
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8570e52a3ec52f39592d6de35d5c1b88ae291003/FTP/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/main/FTP/README.md)
 
 ### 8. Escáner de Puertos
 
@@ -108,7 +108,7 @@ _Uso de diversas herramientas con el fin de escanear y conocer detalles del esta
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8570e52a3ec52f39592d6de35d5c1b88ae291003/Esc%C3%A1ner%20de%20Puertos/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/main/Esc%C3%A1ner%20de%20Puertos/README.md)
 
 ### 9. Envió de Correos
 
@@ -120,7 +120,7 @@ _Uso de herramientas especificas para el envio de correos mediante el permiso de
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8570e52a3ec52f39592d6de35d5c1b88ae291003/Envi%C3%B3%20de%20Correos/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/main/Envi%C3%B3%20de%20Correos/README.md)
 
 ### 10. Automatización de Tareas
 
@@ -132,5 +132,5 @@ _Uso del scripting para realizar tareas de interes y que estas se ejecuten una d
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8570e52a3ec52f39592d6de35d5c1b88ae291003/Automatizaci%C3%B3n%20de%20Tareas/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/main/Automatizaci%C3%B3n%20de%20Tareas/README.md)
 
