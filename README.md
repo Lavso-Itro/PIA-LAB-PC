@@ -24,7 +24,7 @@ _Uso o consulta de un servicio que nos ofrecera un sitio web o una aplicacion me
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/9fa7d6f57beb99543d8f6780f2a5522edc6bd971/Manejo%20de%20APIs/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8addf797063f3fef609ef2dfdcac63160c608982/Manejo%20de%20APIs/README.md)
 
 ### 2. Scripting en PowerShell
 
@@ -36,8 +36,7 @@ _Manejo y creacion de Scripts mediante comandos de Windows usando la terminal de
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/b87c343a4788ecc40d63044100ab62499643ebfc/Scripting%20en%20PowerShell/README.md)
-
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8addf797063f3fef609ef2dfdcac63160c608982/Scripting%20en%20PowerShell/README.md)
 
 ### 3. Scripting en Bash
 
@@ -49,7 +48,7 @@ _Manejo y creacion de Scripts mediante comandos procedentes de los sistemas oper
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/2123d7c20d3542265b54c60dec0ac38fa7fe84e1/Scripting%20en%20Bash/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8addf797063f3fef609ef2dfdcac63160c608982/Scripting%20en%20Bash/README.md)
 
 ### 4. Encoding & Decoding
 
@@ -61,7 +60,7 @@ _Uso de herramientas que nos permiten codificar y decodificar archivos, textos e
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/1ee18ce3267a25d6550befa422b82a8587fcb7f0/Encoding%20&%20Decoding/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8addf797063f3fef609ef2dfdcac63160c608982/Encoding%20&%20Decoding/README.md)
 
 ### 5. Webscraping
 
@@ -73,7 +72,7 @@ _Uso de una herramienta que nos permitira extraer contenido e informacion de un 
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/c39c82288f2a58584f5b279d36b3c4b7c9afdb32/Webscraping/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8addf797063f3fef609ef2dfdcac63160c608982/Webscraping/README.md)
 
 ### 6. Nmap
 
@@ -85,7 +84,7 @@ _Uso de herramientas que nos ofrece multiples funciones relacionadas a la explor
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/6e627940f0f871bb4867aa1b769c417ba2b85d35/Nmap/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8addf797063f3fef609ef2dfdcac63160c608982/Nmap/README.md)
 
 ### 7. FTP
 
@@ -97,7 +96,7 @@ _Uso del protocolo con funcion de trasnferencia de archivos entre equipos de una
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/a06c0020c39b1d32daa764ce4702ba46aaa6f9fc/FTP/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8addf797063f3fef609ef2dfdcac63160c608982/FTP/README.md)
 
 ### 8. Escáner de Puertos
 
@@ -109,7 +108,7 @@ _Uso de diversas herramientas con el fin de escanear y conocer detalles del esta
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/3fd53fbb507f4c9c980c92a4305be0db63cf60b6/Esc%C3%A1ner%20de%20Puertos/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8addf797063f3fef609ef2dfdcac63160c608982/Esc%C3%A1ner%20de%20Puertos/README.md)
 
 ### 9. Envió de Correos
 
@@ -121,7 +120,7 @@ _Uso de herramientas especificas para el envio de correos mediante el permiso de
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/a1fe6b129b65be147f0c05eacbe3defbf69dc183/Envi%C3%B3%20de%20Correos/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8addf797063f3fef609ef2dfdcac63160c608982/Envi%C3%B3%20de%20Correos/README.md)
 
 ### 10. Automatización de Tareas
 
@@ -133,5 +132,5 @@ _Uso del scripting para realizar tareas de interes y que estas se ejecuten una d
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/41f26afd667dfce56c93d62972bd2a20706900df/Automatizaci%C3%B3n%20de%20Tareas/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/8addf797063f3fef609ef2dfdcac63160c608982/Automatizaci%C3%B3n%20de%20Tareas/README.md)
 
