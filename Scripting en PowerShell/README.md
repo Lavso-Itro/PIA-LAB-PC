@@ -8,4 +8,4 @@ En estos scripts de PS se realizaron consultas a comandos del sistema para obten
 
 ## Scripts:
 * [scan_alivev1.ps1](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/10c348b8eff9cb4a08db97cc6b4fc7a8a002aabc/Scripting%20en%20PowerShell/scan_portv1.ps1)
-* [scan_alivev2.ps1]https://github.com/Lavso-Itro/PIA-LAB-PC/blob/10c348b8eff9cb4a08db97cc6b4fc7a8a002aabc/Scripting%20en%20PowerShell/scan_alivev2.ps1
+* [scan_alivev2.ps1](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/10c348b8eff9cb4a08db97cc6b4fc7a8a002aabc/Scripting%20en%20PowerShell/scan_alivev2.ps1)
