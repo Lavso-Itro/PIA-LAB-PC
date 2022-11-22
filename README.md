@@ -36,7 +36,7 @@ _Manejo y creacion de Scripts mediante comandos de Windows usando la terminal de
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/019fbfd470f2c02174b836f1f74c8f62e1219e79/Scripting%20en%20PowerShell/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/b87c343a4788ecc40d63044100ab62499643ebfc/Scripting%20en%20PowerShell/README.md)
 
 
 ### 3. Scripting en Bash
