@@ -24,7 +24,7 @@ _Uso o consulta de un servicio que nos ofrecera un sitio web o una aplicacion me
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/tree/main/Manejo%20de%20APIs/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/main/Manejo%20de%20APIs/README.md)
 
 ### 2. Scripting en PowerShell
 
