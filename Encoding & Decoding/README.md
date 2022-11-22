@@ -5,3 +5,8 @@ Aprender a como codificar y decodificar archivos y texto simple en Base64 median
 
 ## Descripción:
 En los presentes scripts de python se codifico y decodifico una imagen y una frase a nuestra eleccion mediante la ayuda de los modulos requests y base64, y por otra parte se utilizo tambien un script de PS para replicar la misma funcion pero con comandos del sistema, teniendo como fin realizar la actividad con metodos diferentes
+
+## Scripts:
+* [Encode_imgur.py](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/ed631438c0ce434d8f571f041ee996806deddf30/Encoding%20&%20Decoding/Encode_imgur.py)
+* [Cypher.py](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/ed631438c0ce434d8f571f041ee996806deddf30/Encoding%20&%20Decoding/Cypher.py)
+* [codipo.ps1](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/ed631438c0ce434d8f571f041ee996806deddf30/Encoding%20&%20Decoding/codipo.ps1)
