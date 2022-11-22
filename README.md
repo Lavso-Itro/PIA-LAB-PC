@@ -49,7 +49,7 @@ _Manejo y creacion de Scripts mediante comandos procedentes de los sistemas oper
 </p>
 </details>
 
-[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/c5e00de3c61616a9e7472baf50b6ad375060c022/Scripting%20en%20Bash/README.md)
+[Enlace del READMED.md](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/2123d7c20d3542265b54c60dec0ac38fa7fe84e1/Scripting%20en%20Bash/README.md)
 
 ### 4. Encoding & Decoding
 
